@@ -1,2 +1,2 @@
 # simple-python-app
-"python simple"
+"A simple python application"
