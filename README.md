@@ -1,2 +1,2 @@
-# simple-python-app
-"A simple python application"
+# tamil-python
+"hello world"
